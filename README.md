@@ -37,6 +37,7 @@ Python
 Pandas, NumPy, Scikit-learn for data preprocessing and modeling
 Matplotlib, Seaborn for data visualization
 Streamlit for web application development and deployment
+
 Conclusion:
 This project showcases my proficiency in end-to-end machine learning development, from data preprocessing and feature engineering to model training, evaluation, and deployment. The Streamlit interface provides a practical demonstration of how the developed model can be utilized in a real-world scenario.
 
